@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/ambily k r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambily k r" height="30" width="40" /></a>
 <a href="https://instagram.com/spar_klz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spar_klz" height="30" width="40" /></a>
 </p>
-### My Hobbies and interests -
+<h1> My Hobbies and interests </h1>
 * Music
 * Exploring New Trends in we
 * Dancing
