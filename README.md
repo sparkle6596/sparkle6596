@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ambily k r</h1>
-<h3 align="center">A passionate webdeveloper</h3>
+<h3 align="center">A passionate web developer</h3>
 
 - 🌱 I’m currently learning **Angular Full stack**
 
