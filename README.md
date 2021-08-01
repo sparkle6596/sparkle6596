@@ -1,5 +1,3 @@
-[![MasterHead](https://github.com/sparkle6596)]
-<img align-"right" alt="coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fmotivational-and-inspirational-quote-dream-big-work-hard-stay-focused-and-surround-yourself-with-good-people-image329085783.html&psig=AOvVaw3WJUjg5kSW_Npo-Kop5OiX&ust=1627890345588000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJizoaWqj_ICFQAAAAAdAAAAABAD">
 <h1 align="center">Hi 👋, I'm Ambily k r</h1>
 <h3 align="center">A passionate webdeveloper</h3>
 
