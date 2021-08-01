@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/12915136/87480122-ab9e5e00-c5fa-11ea-82b1-b4d3340b5c27.png)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fmotivational-and-inspirational-quote-dream-big-work-hard-stay-focused-and-surround-yourself-with-good-people-image329085783.html&psig=AOvVaw3WJUjg5kSW_Npo-Kop5OiX&ust=1627890345588000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJizoaWqj_ICFQAAAAAdAAAAABAD)
 
 
 <h1 align="center">Hi 👋, I'm Ambily k r</h1>
